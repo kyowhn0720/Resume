@@ -28,6 +28,8 @@
  |가상현실기초및실습|가상현실 실습|3|
  |소프트웨어세미나1|최신 소프트웨어 트렌드|1|
  
+ github address: [K-YW][github]
  
+ [github]:http://github.com/K-YW
  
  
